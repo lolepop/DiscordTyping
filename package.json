@@ -1,0 +1,20 @@
+{
+  "name": "discordtyping",
+  "version": "0.0.1",
+  "description": "Like the slack bot by Will Leinweber but for discord by lolepopie",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "*",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "promise": "*",
+    "sleep-async": "*"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT"
+}
