@@ -17,3 +17,5 @@ It *might* run if you did that correctly
 procfile is included if you want to run this on heroku for some reason
 
 Code is not optimised at all but it takes less than 500mb of memory to run on heroku so I'm happy
+
+Test bot will go down for like 1/3 of the last of the month since the bot is hosted on the free plan
